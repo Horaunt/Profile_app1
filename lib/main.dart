@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(const MaterialApp(
-    home: NinjaCard(),
+    home: Profilecard(),
   ));
 }
 
-class NinjaCard extends StatelessWidget {
-  const NinjaCard({super.key});
+class Profilecard extends StatelessWidget {
+  const Profilecard({super.key});
 
   @override
   Widget build(BuildContext context) {

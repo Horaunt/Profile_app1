@@ -1,16 +1,24 @@
-# ninja_id
+# Profile Card App
 
-A new Flutter project.
+This is a simple profile card app that displays user information.
+
+## Screenshots
+
+![Profile Card App Screenshot 1](./screenshots/screenshot2.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with the app, follow the steps below.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Make sure you have Flutter installed.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository.
+2. Open the project in your preferred code editor.
+3. Run the following command to get the required dependencies:
+
+   ```bash
+   flutter pub get
